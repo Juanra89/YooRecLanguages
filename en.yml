@@ -284,9 +284,9 @@ en:
       formato_fijo: "the fix phone has not the correct format"
       sigues_aumentando: "trust level growing"
       texto_wetransfer: "In case that your emotional or artistic videos are PRIVATE we need you to send those so we can evaluate your work in advanced. Your first rating will be done for us, and then will be the clients how will rate you. Send them with our WeTransfer channel, <b> </b>.</p><p class='formulario'>Send your videos trhought<a href='https://yoorec.wetransfer.com/?to=box@yoorec.com'>WeTransfer channel, the fastest</a>, don’t forget to put the same email you used for registration, so we can associate the videos with you"
-      form_obligatorio: "Obligatorio"
-      form_opcional: "Opcional"
-      form_completado: "Completado"
+      form_obligatorio: "Obligatory"
+      form_opcional: "Optional"
+      form_completado: "Complete"
     confimacion_alta:
       titulo_gracias: "¡¡¡GRACIAS POR DARTE DE ALTA EN YOOREC!!!"
       texto_1: "Gracias por darte de alta como editor en YOOREC. Vamos a revisar tus datos para proceder con el alta en nuestro directorio. <u>Recibiras un correo electronico cuando puedas acceder a la plataforma</u>."
